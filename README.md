@@ -1,3 +1,10 @@
+# RedRain
+
+> A Vue.js project
+
+## Build Setup
+
+``` 
 npm install yf-vue-directive
 
 #自定义过滤器
@@ -29,5 +36,5 @@ let o = {
 10、priceFixed2  //金额 最多2位小数，末尾去0
 11、numberThousandsSeparator  //数字 => 千位分隔符
 
-
+``` 
 
